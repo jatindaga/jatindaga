@@ -1,3 +1,4 @@
+![logo](https://github.com/jatindaga/jatindaga/blob/main/data-analysis-banner-web-icon-set-analytics-search-data-mining-data-filter-pie-chart-and-etc-illustration-concept-vector.jpg)
 <h1 align="center">Hi 👋, I'm Jatin Daga</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding" width=300 src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
